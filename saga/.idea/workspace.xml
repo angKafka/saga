@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ff62392-1932-4d32-a0c0-e652dccecc53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../booscoder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booscoder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booscoder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booscoder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booscoder/booscoder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saga.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/batch-processing/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/batch-processing/batch-processing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/batch-processing/out/production/batch-processing/batch-processing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community-page.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/signup/signup.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/signup/signup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/signup/signup.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/community/src/app/auth/signup/signup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/components/Card.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/components/Recommendations.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/services/tmdbService.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/src/type.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/contentbased-recommendation/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/design-patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/factory-design-pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/Brand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/ItemFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/Samsung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/factory-design-pattern/src/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/prototype-fac-design/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/prototype-fac-design/src/main/java/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/prototype-fac-design/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/prototype-fac-design/src/main/java/PrototypeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/prototype-fac-design/src/main/java/Version.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/singleton-design-pattern/singleton-design-pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/singleton-design-pattern/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/design-patterns/singleton-design-pattern/src/MultithreadSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/dsa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/dsa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/dsa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/dsa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/dsa/dsa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/dsa/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/MovieRecomdendationSystemApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/config/RetryConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/config/SparkConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/controller/MovieController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/dto/MovieDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/mapper/MovieMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/model/Genre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/model/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/service/MovieService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/service/ml/RecommendationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/java/org/rdutta/movierecomdendationsystem/utils/MovieApiProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/movie-recomdendation-system/src/test/java/org/rdutta/movierecomdendationsystem/MovieRecomdendationSystemApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/SnapyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/channel/Channel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/controller/ChannelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/request/ChannelRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/request/MessageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/subscriber/Subscriber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/java/org/rdutta/snapy/subscriber/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch-processing/snapy/src/test/java/org/rdutta/snapy/SnapyApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/EmployeeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/dao/EmployeeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/dto/EmployeeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/utils/EmployeeExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/utils/EmployeeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/utils/EmployeeRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/utils/Messages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/utils/ModelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/java/org/rdutta/employee/utils/RetryInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee/src/test/java/org/rdutta/employee/EmployeeApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/about/about.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/about/about.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/about/about.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/about/about.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.config.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/contact/contact.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/contact/contact.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/contact/contact.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/contact/contact.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/experience/experience.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/experience/experience.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/experience/experience.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/experience/experience.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/projects/projects.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/projects/projects.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/projects/projects.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/projects/projects.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/resume/resume.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/resume/resume.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/resume/resume.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/app/resume/resume.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/Raj_Kumar_Dutta.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/aviator-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/cache.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/gitlab_orderapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/item_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/java.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/resume-document.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/assets/rider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/main.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="30NUnvAeaMiQjorATbr1SltOkv6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.OrderServiceApplication.executor": "Run",
+    "git-widget-placeholder": "typescript-01",
+    "go.import.settings.migrated": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="saga" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="saga" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.rdutta.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ff62392-1932-4d32-a0c0-e652dccecc53" name="Changes" comment="" />
+      <created>1753467694624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753467694624</updated>
+      <workItem from="1753467695625" duration="1864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
